@@ -1,0 +1,39 @@
+# Environment files & Secrets (NEVER COMMIT)
+.env
+.env.*
+*.env
+
+# Python / Byte-compiled / module files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE / OS Configuration
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# PyTorch Model Weights & Heavy Datasets
+data/CEDAR/
+!data/README.md
+!data/sample_signatures/
+models/*.pt
+models/*.pth
+!models/README.md
+
+# Streamlit config & temporary files
+.streamlit/
+assets/temp_graph.png
