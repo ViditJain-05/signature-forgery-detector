@@ -73,7 +73,7 @@ signature-forgery-detector/
 
 ### 1. Clone the Repository & Setup Virtual Environment
 ```bash
-git clone https://github.com/your-username/signature-forgery-detector.git
+git clone https://github.com/ViditJain-05/signature-forgery-detector.git
 cd signature-forgery-detector
 
 # Create and activate virtual environment
