@@ -106,7 +106,7 @@ def main():
         """)
 
         st.divider()
-        st.markdown("[🔗 GitHub Repository](https://github.com/example/signature-forgery-detector)")
+        st.markdown("[🔗 GitHub Repository](https://github.com/ViditJain-05/signature-forgery-detector)")
         st.caption("⚠️ **Educational Disclaimer**: This system is designed for portfolio and academic purposes only. It is not a substitute for legal forensic document analysis.")
 
     # Model Loading
